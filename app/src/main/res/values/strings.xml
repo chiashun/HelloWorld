@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="pressme" >Press Me</string>
+    <string name="Reset">reset</string>
+    <string name="greeting">Hello CCS</string>
+</resources>
